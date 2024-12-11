@@ -1,7 +1,7 @@
-let myName: string = "dario ";
-console.log(myName);
-let mySurname: string = "Annunziata";
-console.log(mySurname);
+let myName3: string = "dario ";
+console.log(myName3);
+let mySurname3: string = "Annunziata";
+console.log(mySurname3);
 let age: number = 25;
 console.log(age);
 
@@ -20,12 +20,12 @@ console.log(array);
 const array2: (string | number | boolean)[] = ["francesco", 34, true];
 console.log(array2);
 
-const obj = {
+const obj7 = {
   firstStep: "name",
   secondStep: 59,
   thirdtStep: true,
 };
-console.log(obj);
+console.log(obj7);
 
 interface Myobj {
   name: string;

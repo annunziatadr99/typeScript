@@ -1,8 +1,8 @@
 "use strict";
-let myName = "dario ";
-console.log(myName);
-let mySurname = "Annunziata";
-console.log(mySurname);
+let myName3 = "dario ";
+console.log(myName3);
+let mySurname3 = "Annunziata";
+console.log(mySurname3);
 let age = 25;
 console.log(age);
 let myname2 = "ciao";
@@ -15,12 +15,12 @@ const array = ["Giuseppe", "dario"];
 console.log(array);
 const array2 = ["francesco", 34, true];
 console.log(array2);
-const obj = {
+const obj7 = {
     firstStep: "name",
     secondStep: 59,
     thirdtStep: true,
 };
-console.log(obj);
+console.log(obj7);
 const obj2 = {
     name: "dario",
     age: 25,
